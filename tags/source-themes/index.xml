@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Atinuke Ademola-Idowu</title>
-    <link>aidowu.github.io/publication/</link>
-      <atom:link href="aidowu.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>Source Themes | Atinuke Ademola-Idowu</title>
+    <link>aidowu.github.io/tags/source-themes/</link>
+      <atom:link href="aidowu.github.io/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Source Themes</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>aidowu.github.io/img/icon-192.png</url>
-      <title>Publications</title>
-      <link>aidowu.github.io/publication/</link>
+      <title>Source Themes</title>
+      <link>aidowu.github.io/tags/source-themes/</link>
     </image>
     
     <item>
