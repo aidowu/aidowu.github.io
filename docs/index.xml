@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Site</title>
-    <link>aidowu.github.io/</link>
+    <link>https://github.com/aidowu/aidowu.github.io/</link>
     <description>Recent content on My New Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 21:49:21 -0500</lastBuildDate><atom:link href="aidowu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Feb 2022 21:49:21 -0500</lastBuildDate><atom:link href="https://github.com/aidowu/aidowu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>aidowu.github.io/posts/my-first-post/</link>
+      <link>https://github.com/aidowu/aidowu.github.io/posts/my-first-post/</link>
       <pubDate>Mon, 21 Feb 2022 21:49:21 -0500</pubDate>
       
-      <guid>aidowu.github.io/posts/my-first-post/</guid>
+      <guid>https://github.com/aidowu/aidowu.github.io/posts/my-first-post/</guid>
       <description>Hello World!</description>
     </item>
     

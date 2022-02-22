@@ -1,4 +1,5 @@
-baseURL = 'aidowu.github.io'
+baseURL = 'https://github.com/aidowu/aidowu.github.io'
 languageCode = 'en-us'
 title = 'My New Site'
 theme = 'ananke'
+publishDir = "docs"
