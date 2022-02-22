@@ -1,0 +1,4 @@
+baseURL = 'aidowu.github.io'
+languageCode = 'en-us'
+title = 'My New Site'
+theme = 'ananke'
